@@ -105,7 +105,9 @@ class MassMessageBot:
         self.bot_tokens = [
             "8466733422:AAHxjIE7cb5bLaACbJlsjJzL9Wds-p4NAvU",
             "8237233519:AAEI-SQlbUKEioLvRc8KJ1_e4a55Oe3SxnI",
-            "8438094178:AAFvU4tugRbuaGlge4MSNmwK7hOOZa2iou4"
+            "8438094178:AAFvU4tugRbuaGlge4MSNmwK7hOOZa2iou4",
+            "8349997927:AAFjhAgvsGw5sumFI1JbhmX2QWpnH8YiQpc",
+            "8246536504:AAENdcuEMkTzhjMOlsok1NhgUC2zdGwNOEQx"
         ]
         self.allowed_user = "seh2ndacc"
         self.application = None
